@@ -142,6 +142,25 @@ main p {
     color: #333;
 }
 
+.feedback-button {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.feedback-button button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.feedback-button button:hover {
+    background-color: #0056b3;
+}
+
 /* Footer styles */
 footer {
     background-color: #4f44ef;
